@@ -3,7 +3,7 @@
 /* First section */
 .home{
   height: 100vh;
-  background:linear-gradient(rgba(0, 0, 0, 0.531) ,rgba(0, 0, 0, 0.531)), url(./../image/mohammedzaki.png);
+  background:linear-gradient(rgba(0, 0, 0, 0.531) ,rgba(0, 0, 0, 0.531)), url(./../image/hero-bg.jpeg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
